@@ -19,7 +19,7 @@ git add namefile
 или
 
 ```
-git add .
+git add.
 ```
 
 # Создание руководства по языку Markdown
